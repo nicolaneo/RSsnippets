@@ -50,7 +50,7 @@ def calc_pindex(plays):
         # covert to integers
         percentShared = [int(y) for y in percentShared]
         
-        # get sorted list of unique integers 
+        # get a sorted list of unique values
         sharedset = set(percentShared) 
         sharedset = (list(sharedset))
         sorted(sharedset)
