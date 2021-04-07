@@ -19,7 +19,7 @@ def calc_pindex(plays):
 
     Returns
     -------
-    pIndex : list
+    pindices : list
         Containing the p-index for every user.
 
     """
